@@ -1,2 +1,2 @@
-# Docs and howtos
+# Docs and howto's
 
