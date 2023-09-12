@@ -1,2 +1,2 @@
-# dosc_howtos
-docs and howtos
+# Docs and howtos
+
